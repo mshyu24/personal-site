@@ -13,7 +13,8 @@ The alpha subunit is folded by Ric-8, a chaperone protein. By using the bicistro
 
 #### Affiliated Publications and Presentations
 
-GPCR Retreat, Bromont, Canada, September 27, 2019. Poster, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.  
+GPCR Retreat, Bromont, Canada, September 27, 2019. Poster, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
+
 Pharmacology SURF Symposium, Ann Arbor, MI, August 8, 2019. Oral Presentation, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
 
 ## Previous Projects
