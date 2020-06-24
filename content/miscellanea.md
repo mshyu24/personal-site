@@ -1,3 +1,0 @@
-# Miscellanea
-
-Filler information.
