@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://maiyayu.me/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/research/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/tutoring/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/coffee/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/computer-science/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/green-dip/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/mango-salsa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/mathematics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/oatmeal-coconut-chocolate-chip/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/miscellanea/origami/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/ratatouille/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://maiyayu.me/food/tuscan-bean-toast/</loc>
+  </url>
+  
+</urlset>
