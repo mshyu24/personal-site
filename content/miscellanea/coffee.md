@@ -1,7 +1,7 @@
 ---
 title: Coffee
 ---
-# Coffee
+# Coffee!!
 
 I am a coffee aficionado and passionate amateur barista. Here are some of my (extremely biased and probably unnecessary) opinions about coffee.
 
@@ -37,4 +37,3 @@ My roommate loves decaf coffee -- their House Decaf was a hit!
 
 I am a passionate Chemex user -- I love the application of chemistry, the form, and the minimal bitterness.
 However, my bitter-coffee-loving roommate ensures I have other methods on hand -- my setup also includes a conventional pourover cone and an espresso machine for lattes, mochas, cappucinos, and Americanos.
- 
