@@ -10,6 +10,6 @@ In June 2020, I worked with UMMA to host a Family Art Studio on origami. I assem
 
 I have enjoyed finding fun ways to display simple pieces, usually by hanging them. Some examples:
 
-![Crane of cranes](../images/crane-of-cranes.JPG)
+![Crane of cranes](/images/crane-of-cranes.JPG)
 
-![Crane mobile](../images/crane-mobile.png)
+![Crane mobile](/images/crane-mobile.png)
