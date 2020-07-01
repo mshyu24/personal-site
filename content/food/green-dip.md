@@ -1,5 +1,6 @@
 ---
 title: Green Dip
+type: food
 ---
 # Green Dip
 

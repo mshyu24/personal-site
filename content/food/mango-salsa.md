@@ -1,5 +1,6 @@
 ---
 title: Mango Salsa
+type: food
 ---
 # Mango Salsa
 

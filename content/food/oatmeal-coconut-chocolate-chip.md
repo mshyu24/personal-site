@@ -1,5 +1,6 @@
 ---
 title: Oatmeal Coconut Chocolate Chip Cookies
+type: food
 ---
 # Oatmeal Coconut Chocolate Chip Cookies
 

@@ -1,7 +1,8 @@
 ---
 title: Coffee
+type: miscellanea
 ---
-# Coffee!!
+# Coffee
 
 I am a coffee aficionado and passionate amateur barista. Here are some of my (extremely biased and probably unnecessary) opinions about coffee.
 

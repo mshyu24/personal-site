@@ -1,5 +1,6 @@
 ---
 title: Quick Ratatouille
+type: food
 ---
 # Quick Ratatouille
 

@@ -1,5 +1,6 @@
 ---
 title: Tuscan Bean Toast
+type: food
 ---
 # Tuscan Bean Toast
 

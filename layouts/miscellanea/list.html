@@ -2,17 +2,17 @@
 <h1>Miscellanea</h1>
 <p>I have a multitude of assorted hobbies and interests. Here are some places with photos, notes, or commentary on them.</p>
 
-  <div class="posts">
-    {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.MainSections -}}
-    {{- $paginator := .Paginate $pages -}}
-    {{ range $paginator.Pages }}
-      <article class="post">
-        <h2 class="post-title">
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h2>
-      </article>
-    {{- end }}
-  </div>
+<div class="posts">
+  {{- $pages := where .Site.RegularPages "Type" "miscellanea" }}
+  {{- $paginator := .Paginate $pages -}}
+  {{ range $paginator.Pages }}
+    <article class="post">
+      <h2 class="post-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+    </article>
+  {{- end }}
+</div>
 
   {{ template "_internal/pagination.html" . }}
 {{- end }}

@@ -5,7 +5,7 @@ repository of some lightly-annotated favorite recipes, both my own and those
 I have collected, feel free to explore</p>
 
   <div class="posts">
-    {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.MainSections -}}
+    {{- $pages := where .Site.RegularPages "Type" "food"}}
     {{- $paginator := .Paginate $pages -}}
     {{ range $paginator.Pages }}
       <article class="post">

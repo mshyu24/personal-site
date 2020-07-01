@@ -1,5 +1,6 @@
 ---
 title: Computer Science
+type: miscellanea
 ---
 # Computer Science
 

@@ -1,5 +1,6 @@
 ---
 title: Origami
+type: miscellanea
 ---
 # Origami
 

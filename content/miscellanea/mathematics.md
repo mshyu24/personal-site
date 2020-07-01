@@ -1,5 +1,6 @@
 ---
 title: Mathematics
+type: miscellanea
 ---
 
 # Mathematics
