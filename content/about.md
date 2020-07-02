@@ -1,6 +1,9 @@
 # Hi! I'm Maiya Yu.
 
+## [Curriculum Vitae (as of 7/2/2020)](/files/cv_maiya_yu.pdf)
+
 #### You can reach me at mshyu AT umich DOT edu, or at the links in the sidebar
+
 
 I am a current senior (class of 2021) at the University of Michigan College of
 Literature, Science, and the Arts, where I am majoring in biochemistry and pure
