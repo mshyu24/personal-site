@@ -2,6 +2,8 @@
 
 ## Current Projects
 
+### Upcoming Presentation:  [BioTalk Seminar: August 7, 2020 at 3pm](https://docs.google.com/document/d/1Q-uiT_3uv_YcSeSi7dZrZShhrDU0FAwS2sNQuHK08z4/edit?usp=sharing)
+
 ### The Dual-Dual Expression System
 ##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
 
