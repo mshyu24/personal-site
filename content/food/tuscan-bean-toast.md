@@ -4,6 +4,8 @@ type: food
 ---
 # Tuscan Bean Toast
 
+Modified and cross-compiled from an assortment of sources.
+
 ## Ingredients
 
 - 2 cans white beans (Great Northern or cannelini)

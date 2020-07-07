@@ -4,6 +4,8 @@ type: food
 ---
 # Homemade Granola
 
+This is a quick, stovetop granola that makes for a great quick breakfast.
+
 ## Ingredients
 
 - 3 tbsp butter

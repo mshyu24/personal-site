@@ -4,6 +4,8 @@ type: food
 ---
 # Quick Ratatouille
 
+A la the film, except faster.
+
 ## Ingredients
 
 - 2 medium zucchini, thinly sliced

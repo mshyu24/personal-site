@@ -4,6 +4,8 @@ type: food
 ---
 # Dduk Guk (Rice Cake Soup)
 
+This soup is traditionally eaten at the Lunar New Year, but is a tasty and hearty dish.
+
 ## Ingredients
 
 - 1 1/2 cups frozen rice cake slices

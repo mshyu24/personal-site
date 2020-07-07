@@ -4,6 +4,8 @@ type: food
 ---
 # Green Dip
 
+I created this dip on a whim for some guests and it was an immediate hint. It is particularly great with celery and carrots.
+
 ## Ingredients
 
 - Half a bunch fresh cilantro

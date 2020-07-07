@@ -4,6 +4,8 @@ type: food
 ---
 # Mango Salsa
 
+An excellent summery snack -- serve in tortilla chip cups for a quick appetizer.
+
 ## Ingredients
 
 - 2 ripe mangoes, chopped

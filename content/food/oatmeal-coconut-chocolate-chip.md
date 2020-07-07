@@ -4,6 +4,8 @@ type: food
 ---
 # Oatmeal Coconut Chocolate Chip Cookies
 
+A recipe I developed to best incorporate the features I like in cookies.
+
 ## Ingredients
 
 - 2 sticks softened butter (1 cup)
