@@ -8,7 +8,7 @@
 I am a current senior (class of 2021) at the University of Michigan College of
 Literature, Science, and the Arts, where I am majoring in biochemistry and pure
 mathematics, and minoring in computer science. I am also an undergraduate
-researcher in the [Tall lab](https://sites.google.com/a/umich.edu/tall-lab/) in
+researcher in the [Tall lab](https://sites.google.com/umich.edu/greg-tall-lab/home) in
  the Department of Pharmacology. I tutor -- both privately and in
  the [Math Lab](https://lsa.umich.edu/math/undergraduates/course-resources/math-lab.html),
  and in the winter, I am an MWrite Fellow for Chem 216 with the Sweetland Writing
