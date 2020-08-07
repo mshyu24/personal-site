@@ -2,8 +2,6 @@
 
 ## Current Projects
 
-### Upcoming Presentation:  [BioTalk Seminar: August 7, 2020 at 3pm](https://docs.google.com/document/d/1Q-uiT_3uv_YcSeSi7dZrZShhrDU0FAwS2sNQuHK08z4/edit?usp=sharing)
-
 ### The Dual-Dual Expression System
 ##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
 
@@ -14,6 +12,7 @@ G proteins are heterotrimeric, with alpha, beta, and gamma subunits. They are al
 The alpha subunit is folded by Ric-8, a chaperone protein. By using the bicistronic pFastBac Dual vector, we created two recombinant baculoviruses -- one encoding a his-tagged beta subunit and a gamma subunit, and the other encoding an alpha subunit and Ric-8. This allows us to improve protein expression levels and use standard Ni-NTA chromatography to purify G proteins in unprecedented amounts.
 
 #### Affiliated Publications and Presentations
+BioTalk Seminar, Remote/Ann Arbor, MI, August 7, 2020. Oral Presentation, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
 
 GPCR Retreat, Bromont, Canada, September 27, 2019. Poster, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
 
