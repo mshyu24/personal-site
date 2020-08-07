@@ -25,7 +25,7 @@ Region 10 Tournament, and Event Supervisor for Write It Do It Division B for the
  2019 State tournament and planned to supervise for the 2020 tournament before its cancellation.
 
 I am also on leadership with InterVarsity Multi-Ethnic at the University of
- Michigan. We are committed to building and maintaining an intentionally
+ Michigan as the Outreach Coordinator. We are committed to building and maintaining an intentionally
  multi-denominational and multi-ethnic faith community on campus.
 
  Outside of my assorted University of Michigan affiliations, I am an avid folder
