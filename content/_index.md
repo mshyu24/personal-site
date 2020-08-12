@@ -2,7 +2,7 @@
 
 ### Learn more about me and my multitude of interests!
 
-I built this site to act as a repository of information ("It's *not* just a resume site)
+I built this site to act as a repository of information ("It's *not* just a resume site")
 about me, and to give myself something to do during my COVID-19-related research hiatus.
 
 Find some of my favorite recipes, read about my current doings, or get in touch
