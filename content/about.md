@@ -19,9 +19,9 @@ our annual Invitational tournament. I spent two years on Board as Human
 Resources before transitioning to the role for the 2019-2020 and 2020-2021
 seasons. I was involved with Science Olympiad in middle school and high school
 and I love giving back to the organization that inspired my scientific aspirations
- whenever possible. I was an Event Supervisor for Water Quality B&C for the 2019
+ whenever possible. I was an Event Supervisor for Water Quality Divisions B&C for the 2019
 Region 10 Tournament, and Event Supervisor for Write It Do It Division B for the
- 2019 State tournament and planned to supervise for the 2020 tournament before its cancellation.
+ 2019 State tournament and planned to supervise for the 2020 tournament before its cancellation. As of August 2020, I am also a member of the Michigan Science Olympiad Board of Directors.
 
 I am also on leadership with InterVarsity Multi-Ethnic at the University of
  Michigan as the Outreach Coordinator. We are committed to building and maintaining an intentionally

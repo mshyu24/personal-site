@@ -12,7 +12,7 @@ G proteins are heterotrimeric, with alpha, beta, and gamma subunits. They are al
 The alpha subunit is folded by Ric-8, a chaperone protein. By using the bicistronic pFastBac Dual vector, we created two recombinant baculoviruses -- one encoding a his-tagged beta subunit and a gamma subunit, and the other encoding an alpha subunit and Ric-8. This allows us to improve protein expression levels and use standard Ni-NTA chromatography to purify G proteins in unprecedented amounts.
 
 #### Affiliated Publications and Presentations
-BioTalk Seminar, Remote/Ann Arbor, MI, August 7, 2020. Oral Presentation, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
+[BioTalk Seminar, Remote/Ann Arbor, MI, August 7, 2020. Oral Presentation, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.](https://bluejeans.com/playback/s/nYsqIly05vnL9nQTNXOD6xTEAMO9LKIwdqabVCjXslARDOVfXWl9dE0X3P2bBjKd)
 
 GPCR Retreat, Bromont, Canada, September 27, 2019. Poster, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
 
