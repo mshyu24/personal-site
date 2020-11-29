@@ -1,6 +1,6 @@
 # Hi! I'm Maiya Yu.
 
-## [Curriculum Vitae (as of 8/9/2020)](/files/cv_maiya_yu.pdf)
+## [Curriculum Vitae (as of 11/29/2020)](/files/cv_maiya_yu.pdf)
 
 #### You can reach me at mshyu AT umich DOT edu, or at the links in the sidebar
 
@@ -31,7 +31,7 @@ I am also on leadership with InterVarsity Multi-Ethnic at the University of
 of paper -- I helped with the University of Michigan Museum of Art Family Art
 Studio in June 2020 to guide people through a virtual exploration of origami!
 I am also a loving bird mother to Chico, my beloved pet Pacific Parrotlet, and
-a rabbit aunt to Toast and Goat. I am a passionate coffee aficionado and amateur
+a cat aunt to Pierogi. I am a passionate coffee aficionado and amateur
 barista -- I am always looking to improve my latte art skills and perfect my
 Chemex pouring. I am a frequent baker and dinner party host, and enjoy doting
 over my beloved Sourdoughra, a 3:4 water:flour-fed sourdough starter. I love
