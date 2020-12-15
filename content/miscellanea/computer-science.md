@@ -35,3 +35,10 @@ EECS 281: Data Structures and Algorithms
 -- Implemented priority queues (3 different implementations) and wrote a zombie game simulator using priority queues
 -- Given logfile, searches entries using keywords, timestamps, or categories
 -- Implemented minimal spanning tree algorithm and two programs solving the Traveling Salesman Problem -- one favoring fast computation using a heuristic, the other favoring optimality
+
+EECS 485: Web Systems
+
+-- Implemented static site generator (akin to Hugo -- which is what this site is made with!)
+-- Implemented early Instagram clone using server-side and client-side dynamic pages
+-- Implemented basic MapReduce framework
+-- Implemented basic search engine using pre-computed indexing and server-side dynamic pages

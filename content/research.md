@@ -2,12 +2,19 @@
 
 ## Current Projects
 
+### Purification of Ric-8B for structural analysis
+##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
+
+In July 2020, I shifted my focus to another related project -- purifying and phosphorylating Ric-8B for structural analysis, at the recommendation of my advisor. I have enjoyed returning to methods I first encountered as a freshman, especially as it has let me see how far I have come as a scientist -- I now use the same methods much more independently.
+
+## Previous Projects
+
 ### The Dual-Dual Expression System
 ##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
 
 ![The Dual Dual Expression System](/images/dual_dual.png)
 
-My current work focuses on improving methods of purifying G proteins. G proteins couple to the eponymous G protein coupled receptors (GPCRs), which mediate a broad variety of physiologically relevant pathways including those for sight, olfaction, blood sugar levels, neural signaling, and cell growth.  
+From January 2019 to July 2020, my work focused on improving methods of purifying G proteins. G proteins couple to the eponymous G protein coupled receptors (GPCRs), which mediate a broad variety of physiologically relevant pathways including those for sight, olfaction, blood sugar levels, neural signaling, and cell growth.  
 G proteins are heterotrimeric, with alpha, beta, and gamma subunits. They are also post-translationally modified, and as bacteria lack the necessary machinery for post-translational modifications, insect cell-based systems are generally preferred. Historically, purification of heterotrimers or the active alpha subunit involves creating three recombinant baculoviruses -- one for each subunit.
 The alpha subunit is folded by Ric-8, a chaperone protein. By using the bicistronic pFastBac Dual vector, we created two recombinant baculoviruses -- one encoding a his-tagged beta subunit and a gamma subunit, and the other encoding an alpha subunit and Ric-8. This allows us to improve protein expression levels and use standard Ni-NTA chromatography to purify G proteins in unprecedented amounts.
 
@@ -17,8 +24,6 @@ The alpha subunit is folded by Ric-8, a chaperone protein. By using the bicistro
 GPCR Retreat, Bromont, Canada, September 27, 2019. Poster, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
 
 Pharmacology SURF Symposium, Ann Arbor, MI, August 8, 2019. Oral Presentation, A Dual-Dual Expression System for Purification of G Protein Alpha Subunits and Heterotrimers.
-
-## Previous Projects
 
 ### In vitro phosphorylation of Ric-8A
 ##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
@@ -51,3 +56,6 @@ The figure is of one subunit of aldolase A (in navy)  in complex with naphthalen
 [Biomedical Engineering Society Annual Meeting, Atlanta, GA, October 20, 2018. Poster, Computational studies of novel inhibitors of aldolase A via molecular dynamic simulations](https://www.youtube.com/watch?v=K8o4cVwNzX4)
 
 Summer Scholars Symposium, Austin, TX, August 2, 2018. Poster, Computational studies of novel inhibitors of aldolase A via molecular dynamic simulations.
+
+
+## Collaborative Efforts
