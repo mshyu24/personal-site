@@ -59,3 +59,17 @@ Summer Scholars Symposium, Austin, TX, August 2, 2018. Poster, Computational stu
 
 
 ## Collaborative Efforts
+
+### Adhesion GPCRs review
+##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
+
+I had the opportunity to help some of my labmates with a review. I put my computational skills to work, writing a short python script to help align consensus sequences, and generated Table 1 in the paper!
+
+[Alexander Vizurraga, Rashmi Adhikari, Jennifer Yeung, Maiya Yu and Gregory G. Tall. Mechanisms of Adhesion GPCR Activation. Journal of Biological Chemistry, 2020. ](https://www.jbc.org/content/295/41/14065)
+
+### GPR56 Signaling
+##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
+
+I had the opportunity to put some of my purified G proteins to work to help a labmate perform some GTPgS reconstitution assays testing a hypothesis about GPR56 coupling. It resulted in a figure in a much larger manuscript about GPR56 signaling!
+
+[Jennifer Yeung,  Reheman Adili, Emily N. Stringham, Rong Luo, Alexander Vizurraga, Luciana K. Rosselli-Murai, Hannah M. Stoveken,  Maiya Yu, Xianhua Piao,  Michael Holinstat, and Gregory G. Tall. GPR56/ADGRG1 is a platelet collagen-responsive GPCR and hemostatic sensor of shear force. PNAS, 2020.](https://www.pnas.org/content/117/45/28275)
