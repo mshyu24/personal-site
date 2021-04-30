@@ -1,19 +1,8 @@
 # Tutoring
 
-## Math Lab
-
-You can find me in the virtual [University of Michigan Math Lab](https://lsa.umich.edu/math/undergraduates/course-resources/math-lab.html) during the following times:
-
-Mondays, 7p-10p
-
-Tuesdays, 7p-10p
-
-Wednesdays, 1p-2p
-
-Fridays, 1p-3p
 
 ## Private Tutoring
-I am available for private tutoring during fall 2020! Send me an email at mshyu AT umich DOT edu to find a time that works for you!
+I am available for private tutoring! Send me an email at mshyu AT umich DOT edu to find a time that works for you!
 
 ### Hourly Rates
 
