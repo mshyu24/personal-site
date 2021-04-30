@@ -1,6 +1,6 @@
 # Hi! I'm Maiya Yu.
 
-## [Curriculum Vitae (as of 12/15/2020)](/files/cv_maiya_yu.pdf)
+## [Curriculum Vitae (as of 4/29/2021)](/files/cv_maiya_yu.pdf)
 
 #### You can reach me at mshyu AT umich DOT edu, or at the links in the sidebar
 
@@ -27,7 +27,7 @@ Region 10 Tournament, and Event Supervisor for Write It Do It Division B for the
  Write It CAD It Divisions B & C at the Region 7 Tournament, and Write It CAD It
  Division B at the State Tournament.
 
-As of August 2020, I am also a member of the Michigan Science Olympiad Board of 
+As of August 2020, I am also a member of the Michigan Science Olympiad Board of
 Directors.
 
 I also served on leadership with InterVarsity Multi-Ethnic at the University of
