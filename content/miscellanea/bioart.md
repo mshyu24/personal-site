@@ -4,7 +4,7 @@ type: miscellanea
 ---
 # Bio-Art
 
-I have long enjoyed creating wire sculptures of proteins. I am currently a part of [CellSpace](https://ccsb.scripps.edu/goodsell/cellspace/), a Bio-Art workshop run by [Dr. David Goodsell](https://ccsb.scripps.edu/goodsell/), where I am working on a project about SARS-CoV-2.
+I have long enjoyed creating wire sculptures of proteins.
 
 Some past work:
 ![Zinc Finger Earrings](/images/znf-earrings.jpg)

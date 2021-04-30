@@ -21,8 +21,10 @@ As a pure mathematics major, I've taken (and I am planning to take) some neat co
 -- Math 498, special topics: representation theory of finite and compact groups (W2021)
 
 
-I have also learned some cool things in my time, which I enjoy passing on to people I tutor and anyone else who is willing to listen.
+I have also learned some cool things in my time, which I enjoy passing on to
+people I tutor and anyone else who is willing to listen.
 
-This hexagonal mnemonic in particular is something I learned during my freshman year in Honors Applied Calculus II. I love it as a method to recall trig identities quickly
+This hexagonal mnemonic in particular is something I learned during my freshman
+year in Honors Applied Calculus II. I love it as a method to recall trig identities quickly
 
 ![Trig Hexagon](/images/trig-hexagon.png)
