@@ -6,9 +6,7 @@ type: unsolicited-thoughts
 
 As I write this, I have just finished up my last year of my undergraduate
 education, and a huge part of that this year was applying to graduate school.
-An important thing to know about me is that I am a planner -- I like to know what
-I am getting myself into, and my favorite way to procrastinate is worrying about
-things that I don't need to worry about yet. What this means is that for the first
+An important thing to know about me is that I am a planner -- I like to know what I am getting myself into, and my favorite way to procrastinate is worrying about things that I don't need to worry about yet. What this means is that for the first
 three years of undergraduate, I procrastinated by spending absurd amounts of time reading about getting into graduate school.
 
 Now admittedly, I did the same thing during high school: for three years, I procrastinated by reading about and thinking about getting into college.
