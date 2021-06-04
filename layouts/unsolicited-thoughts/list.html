@@ -1,0 +1,21 @@
+{{ define "main" -}}
+<h1>Unsolicited Thoughts</h1>
+<p>I'd call it a blog, but let's be honest:</p>
+<p>a. blogs went out of fashion a while ago </p>
+<p>b. I am a terrible blogger and will absolutely not write here consistently enough to call this a blog
+</p>
+
+<div class="posts">
+  {{- $pages := where .Site.RegularPages "Type" "unsolicited-thoughts" }}
+  {{- $paginator := .Paginate $pages -}}
+  {{ range $paginator.Pages }}
+    <article class="post">
+      <h2 class="post-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+    </article>
+  {{- end }}
+</div>
+
+  {{ template "_internal/pagination.html" . }}
+{{- end }}
