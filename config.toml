@@ -65,6 +65,12 @@ customCss = ["css/profile.css"]
   url = "/miscellanea/"
 
   [[menu.main]]
+  name = "unsolicited thoughts"
+  identifier = "unsolicited-thoughts"
+  weight = 300
+  url = "/unsolicited-thoughts/"
+
+  [[menu.main]]
   name = "tutoring"
   identifier = "tutoring"
   weight = 300
