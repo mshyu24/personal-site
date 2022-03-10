@@ -2,12 +2,18 @@
 
 ## Current Projects
 
+I am currently doing research rotations!
+
+I am currently rotating in the [Kobilka lab](https://med.stanford.edu/kobilkalab.html)!
+I previously rotated with the [Weis lab](https://med.stanford.edu/weis.html) and the [Wakatsuki lab](https://med.stanford.edu/wakatsukilab.html).
+
+## Previous Projects
+
 ### Purification of Ric-8B for structural analysis
 ##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
 
 In July 2020, I shifted my focus to another related project -- purifying and phosphorylating Ric-8B for structural analysis, at the recommendation of my advisor. I have enjoyed returning to methods I first encountered as a freshman, especially as it has let me see how far I have come as a scientist -- I now use the same methods much more independently.
 
-## Previous Projects
 
 ### The Dual-Dual Expression System
 ##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
