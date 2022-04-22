@@ -18,9 +18,7 @@ our annual Invitational tournament.
 I spent two years on Board as Human Resources before transitioning to the role for the 2019-2020 and 2020-2021 seasons.
 I was involved with Science Olympiad in middle school and high school
 and I love giving back to the organization that inspired my scientific aspirations whenever possible.
-I was an Event Supervisor for Water Quality Divisions B&C for the 2019
-Region 10 Tournament, and Event Supervisor for Write It Do It Division B for the2019 State tournament and planned to supervise for the 2020 tournament before its cancellation.
- In 2021, I supervised Protein Modeling Division C at the Region 6 Tournament, Write It CAD It Division B at the Regions 11 & 1 joint Tournament, Write It CAD It Divisions B & C at the Region 7 Tournament, and Write It CAD It Division B at the State Tournament.
+I've served as an Event Supervisor for many tournaments and have more information (including some tests!) on [my page](/miscellanea/science-olympiad).
 
 As of August 2020, I am also a member of the Michigan Science Olympiad Board of
 Directors, and as of June 2021, I serve as the Communications Director, managing social media and website for the organization along with supporting collegiate chapters in the state of Michigan.
