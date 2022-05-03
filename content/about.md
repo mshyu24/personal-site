@@ -4,7 +4,7 @@
 
 #### You can reach me at mshyu AT umich DOT edu or msh24 AT stanford DOT edu, or at the links in the sidebar
 
-I am a PhD student in the [Structural Biology](https://med.stanford.edu/structuralbio.html) department at Stanford University. Currently, I am rotating with [Brian Kobilka's group](https://med.stanford.edu/kobilkalab.html). I am currently serving on the Outreach subcommittee of the [Structural Biology Diversity, Equity, and Inclusion committee](https://med.stanford.edu/structuralbio/diversity-equity-and-inclusion.html).
+I am a PhD student in the [Structural Biology](https://med.stanford.edu/structuralbio.html) department at Stanford University. Currently, I am rotating with [Yiorgo Skiniotis's group](https://med.stanford.edu/skiniotislab.html). I am currently serving on the Outreach subcommittee of the [Structural Biology Diversity, Equity, and Inclusion committee](https://med.stanford.edu/structuralbio/diversity-equity-and-inclusion.html).
 
 Before my PhD, I worked as an undergraduate research assistant in the [Tall lab](https://sites.google.com/umich.edu/greg-tall-lab/home) in
  the Department of Pharmacology.
