@@ -4,8 +4,8 @@
 
 I am currently doing research rotations!
 
-I am currently rotating in the [Kobilka lab](https://med.stanford.edu/kobilkalab.html)!
-I previously rotated with the [Weis lab](https://med.stanford.edu/weis.html) and the [Wakatsuki lab](https://med.stanford.edu/wakatsukilab.html).
+I am currently rotating in the [Skiniotis lab](https://med.stanford.edu/skiniotislab.html)!
+I previously rotated with the [Kobilka lab](https://med.stanford.edu/kobilkalab.html), the [Weis lab](https://med.stanford.edu/weis.html) and the [Wakatsuki lab](https://med.stanford.edu/wakatsukilab.html).
 
 ## Previous Projects
 
