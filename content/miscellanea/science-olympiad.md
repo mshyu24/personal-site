@@ -20,7 +20,7 @@ Cell Biology (R, S, V1) [test](/files/CB_R_V1.pdf), [key](/files/CB_R_V1_key.pdf
 
 Cell Biology (R, W, V2) [test](/files/CB_R_V2.pdf), [key](/files/CB_R_V2_key.pdf)
 
-## Science Olympiad Positions
+## Science Olympiad Appearances
 
 ES: Event Supervisor
 
