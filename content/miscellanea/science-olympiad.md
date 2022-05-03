@@ -16,9 +16,9 @@ level: I, invitational; R, Regional; S, State
 
 type: S, stations; W, written sit-down; L, lab
 
-Cell Biology (R, S, V1) [test](/files/CB_R_V1.pdf) [key](/files/CB_R_V1_key.pdf) [answer sheet](/files/CB_R_V1_answersheet.pdf)
+Cell Biology (R, S, V1) [test](/files/CB_R_V1.pdf), [key](/files/CB_R_V1_key.pdf), [answer sheet](/files/CB_R_V1_answersheet.pdf)
 
-Cell Biology (R, W, V2) [test](/files/CB_R_V2.pdf) [key](/files/CB_R_V2_key.pdf)
+Cell Biology (R, W, V2) [test](/files/CB_R_V2.pdf), [key](/files/CB_R_V2_key.pdf)
 
 ## Science Olympiad Positions
 
