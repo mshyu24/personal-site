@@ -1,6 +1,6 @@
 # Hi! I'm Maiya Yu.
 
-## [Curriculum Vitae (as of 6/4/2021)](/files/cv_maiya_yu.pdf)
+## [Curriculum Vitae (as of 5/2/2022)](/files/cv_maiya_yu.pdf)
 
 #### You can reach me at mshyu AT umich DOT edu or msh24 AT stanford DOT edu, or at the links in the sidebar
 
