@@ -12,7 +12,7 @@ I previously rotated with the [Kobilka lab](https://med.stanford.edu/kobilkalab.
 ### Purification of Ric-8B for structural analysis
 ##### Work affiliated with University of Michigan, Department of Pharmacology, Tall Lab
 
-In July 2020, I shifted my focus to another related project -- purifying and phosphorylating Ric-8B for structural analysis, at the recommendation of my advisor. I have enjoyed returning to methods I first encountered as a freshman, especially as it has let me see how far I have come as a scientist -- I now use the same methods much more independently.
+In July 2020, I shifted my focus to another related project -- purifying and phosphorylating Ric-8B for structural analysis, at the recommendation of my advisor. I enjoyed returning to methods and protocols I first encountered as a freshman, especially as it  let me see how far I have come as a scientist -- I used the same methods much more independently.
 
 
 ### The Dual-Dual Expression System
