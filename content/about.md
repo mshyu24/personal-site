@@ -1,10 +1,10 @@
 # Hi! I'm Maiya Yu.
 
-## [Curriculum Vitae (as of 5/2/2022)](/files/cv_maiya_yu.pdf)
+## [Curriculum Vitae (as of 8/10/2022)](/files/cv_maiya_yu.pdf)
 
 #### You can reach me at mshyu AT umich DOT edu or msh24 AT stanford DOT edu, or at the links in the sidebar
 
-I am a PhD student in the [Structural Biology](https://med.stanford.edu/structuralbio.html) department at Stanford University. Currently, I am rotating with [Yiorgo Skiniotis's group](https://med.stanford.edu/skiniotislab.html). I am currently serving on the Outreach subcommittee of the [Structural Biology Diversity, Equity, and Inclusion committee](https://med.stanford.edu/structuralbio/diversity-equity-and-inclusion.html).
+I am a PhD student in the [Structural Biology](https://med.stanford.edu/structuralbio.html) department at Stanford University. Currently, I am a member of [Bill Weis' group](https://med.stanford.edu/weis.html). I am currently serving on the Internal subcommittee of the [Structural Biology Diversity, Equity, and Inclusion committee](https://med.stanford.edu/structuralbio/diversity-equity-and-inclusion.html).
 
 Before my PhD, I worked as an undergraduate research assistant in the [Tall lab](https://sites.google.com/umich.edu/greg-tall-lab/home) in
  the Department of Pharmacology.
@@ -26,7 +26,7 @@ Directors, and as of June 2021, I serve as the Communications Director, managing
 I also served on leadership with InterVarsity Multi-Ethnic at the University of
  Michigan as the Outreach Coordinator.
 
- Outside of my assorted University of Michigan affiliations, I am an avid folder of paper -- I helped with the University of Michigan Museum of Art Family Art Studio in June 2020 to guide people through a virtual exploration of origami, and returned for a second session in June 2021!
+Outside of my assorted academic affiliations, I am an avid folder of paper -- I helped with the University of Michigan Museum of Art Family Art Studio in June 2020 to guide people through a virtual exploration of origami, and returned for a second session in June 2021!
 I am a passionate coffee aficionado and amateur barista -- I am always looking to improve my latte art skills and perfect my Chemex pouring.
 I am a frequent baker and dinner party host during non-pandemic
 times.

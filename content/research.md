@@ -2,10 +2,9 @@
 
 ## Current Projects
 
-I am currently doing research rotations!
+I am a member of the [Weis lab](https://med.stanford.edu/weis.html). I am working on examining planar cell polarity signaling using a biochemical and structural biological lens.
 
-I am currently rotating in the [Skiniotis lab](https://med.stanford.edu/skiniotislab.html)!
-I previously rotated with the [Kobilka lab](https://med.stanford.edu/kobilkalab.html), the [Weis lab](https://med.stanford.edu/weis.html) and the [Wakatsuki lab](https://med.stanford.edu/wakatsukilab.html).
+I previously rotated with the [Skiniotis lab](https://med.stanford.edu/skiniotislab.html), the [Kobilka lab](https://med.stanford.edu/kobilkalab.html), the [Weis lab](https://med.stanford.edu/weis.html) and the [Wakatsuki lab](https://med.stanford.edu/wakatsukilab.html).
 
 ## Previous Projects
 
