@@ -70,11 +70,6 @@ customCss = ["css/profile.css"]
   weight = 300
   url = "/unsolicited-thoughts/"
 
-  [[menu.main]]
-  name = "tutoring"
-  identifier = "tutoring"
-  weight = 300
-  url = "/tutoring/"
 
 [taxonomies]
 category = "categories"
